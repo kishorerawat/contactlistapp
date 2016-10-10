@@ -2,11 +2,8 @@
 
 #Contactlist App using MEAN (Mongo-Express-Angular-Node) Stack
 
-This is a very simple Contactlist app as explained in this beatiful tutorial on YouTube : https://youtu.be/6Sbau-oE37w
+This is a very simple Contactlist app as explained in this beatiful tutorial on YouTube : https://youtu.be/6Sbau-oE37w (Learn Coding Tutorials)
 
-The presenter has really explained in a very easy manner how to design the UI, how to manage the application logic and then storage of data in Mongo.
+The presenter has explained the complete application flow in a very easy-to-understand manner. As explained in the video, this app is for demonstration purposes only to understand how to work witht he MEAN stack.
 
-Very good for anybody who wants to learn how to design web applications using JavaScript, Angular, Express, Mongo and Node.
-
-
-
+Very good for anybody who wants to learn how to design web applications using JavaScript, Bootstrap, Angular, Express, Mongo and Node.
